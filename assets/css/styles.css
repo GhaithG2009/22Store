@@ -32,9 +32,7 @@
     box-sizing: border-box;
 }
 body{
-        -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
+
     margin: 2rem 0 0 0;
     background-color: rgb(49, 204, 224);
     color: var(--dark-color);
@@ -95,9 +93,7 @@ a{
     padding: 1.5rem 2rem;
     border-radius: 1rem;
     overflow: hidden;
-        -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
+
 
 }
 article:nth-child(1){
@@ -208,10 +204,7 @@ color: #0A6A6E;
 }
 
 header{
-        -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
-   position: absolute; 
+
   top: 0;
   left: 0;
   width: 100%;
@@ -267,9 +260,7 @@ header ul li a{
 
 
 .footer {
-        -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
+        
     padding: 40px 0;
     margin-top: 50px;
     background-color: #90dcdf;
@@ -405,9 +396,7 @@ display:none;
 
 }
 
-    -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
+
 
 .overlay {
   position:fixed;
