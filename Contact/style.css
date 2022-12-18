@@ -242,4 +242,8 @@ header ul li  :hover{
     background:   url(images/loader.gif) no-repeat   center;
     background-size: 17%;
 }
-
+.DEL p{
+    margin-left: 80px;
+    color: rgba(136, 136, 136, 0.534);
+    
+}
