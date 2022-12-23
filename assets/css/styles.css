@@ -656,4 +656,5 @@ user-select: none; /* Standard syntax */
  }
 body .searchdiv {
 text-align: center;
+    z-index: -1;
 }
