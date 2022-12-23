@@ -654,4 +654,6 @@ user-select: none; /* Standard syntax */
  .hide{
      display: none;
  }
-
+.searchdiv {
+text-align: center;
+}
