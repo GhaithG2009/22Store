@@ -663,6 +663,9 @@ header ul li  :hover{
 body .searchdiv{
 text-align:center;
     align-content:center;
+
+}
+body .searchdiv #search{
     width:270px;
     height:30;
 }
