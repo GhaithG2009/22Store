@@ -96,7 +96,18 @@
 
 
 
-<div class="searchdiv"><input type="search" value="" id="search" placeholder="search for sections and products" onchange="openpage()" > </div>
+<div class="searchdiv"><input type="search" value="" id="search" onchange="openPage()" placeholder="search for sections and products"  > </div>
+<script>
+    function openPage() {
+            var x = document.getElementById("search").value;
+
+            if (x === "contact") {
+                window.open("https://ghaithg2009.github.io/22Store/Contact/index.html");
+            }
+
+  
+        }
+</script>
 
 
 
