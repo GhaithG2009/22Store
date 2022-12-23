@@ -15,7 +15,18 @@
     ></script>
         
     </head>
-  
+                      <!--pre loader-->
+   <div id="preloader"></div>
+
+
+
+   <script>
+   var loader = document.getElementById("preloader");
+   window.addEventListener ("load", function (){
+   loader.style.display="none"
+   })
+
+   </script>
     <header>
         
             
@@ -38,18 +49,10 @@
 <div class="searchdiv"><input type="search" value="" id="search" onchange="openpage()" > </div>
 
 
-                    <!--pre loader-->
-   <div id="preloader"></div>
 
 
 
-   <script>
-   var loader = document.getElementById("preloader");
-   window.addEventListener ("load", function (){
-   loader.style.display="none"
-   })
-
-   </script>
+ 
 
 
 
