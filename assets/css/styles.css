@@ -668,7 +668,7 @@ text-align:center;
 body .searchdiv #search{
 width:270px;
 border-radius: 10px;
-border: 2px solid rgba(109, 106, 106, 0.76);
-height: 27px;
-margin-bottom: 16px;
+border: 1px solid rgba(109, 106, 106, 0.76);
+height: 23px;
+margin-bottom: 13px;
 }
