@@ -662,5 +662,7 @@ header ul li  :hover{
 }
 body .searchdiv{
 text-align:center;
-    width:200px;
+    align-content:center;
+    width:270px;
+    height:30;
 }
