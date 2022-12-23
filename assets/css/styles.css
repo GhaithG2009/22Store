@@ -649,12 +649,7 @@ user-select: none; /* Standard syntax */
  .hide{
      display: none;
  }
-body .searchdiv {
-text-align: center;
-border-radius: 30%;
-width: 200px;
-height: 30px;
-}
+
 header  .active{
     box-shadow: 0 0 1px rgb(255, 255, 255), 0 0 4px rgb(255, 255, 255), 0 0 8px rgb(255, 255, 255);
     color: #156063;
@@ -664,4 +659,10 @@ header  .active{
 header ul li  :hover{
     border-radius: 15%;
     box-shadow: 0 0 10px rgb(255, 255, 255), 0 0 40px rgb(255, 255, 255), 0 0 80px rgb(255, 255, 255);
+}
+body .searchdiv {
+text-align: center;
+border-radius: 30%;
+width: 200px;
+height: 30px;
 }
