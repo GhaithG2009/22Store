@@ -191,9 +191,7 @@ color: #0A6A6E;
 
 /*-- MEDIA QUERIES --*/
 @media screen and (min-width: 1200px){
-    body{
-      margin: 3rem 0 0 0;  
-    }
+
     .title-shop{
         margin: 0 5rem;
     }
