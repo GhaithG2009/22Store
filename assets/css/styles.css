@@ -651,10 +651,9 @@ user-select: none; /* Standard syntax */
  }
 body .searchdiv {
 text-align: center;
-    z-index: 3;
-    border-radius:30%;
-    width:200px;
-    height:30px;
+border-radius: 30%;
+width: 200px;
+height: 30px;
 }
 header  .active{
     box-shadow: 0 0 1px rgb(255, 255, 255), 0 0 4px rgb(255, 255, 255), 0 0 8px rgb(255, 255, 255);
