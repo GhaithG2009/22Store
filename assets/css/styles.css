@@ -69,21 +69,20 @@ a{
 /*-- PAGES --*/
 .title-shop{
     position: relative;
-    margin: 0 2.5rem;
-    color: #156063;
-    width: 300px;
+    margin-left:  2.5rem;
+    color: #156063; 
+    width: 180px;
+    
     cursor: pointer;
-
 }
 .title-shop::after{
     content: '';
     position: absolute;
-    top: 50%;
     width: 72px;
     height: 2px;
+
     background-color: var(--dark-color);
     margin-left: .25rem;
-
 }
 
 /*-- COMPONENT --*/
