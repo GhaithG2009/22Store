@@ -500,7 +500,14 @@ html{
  background: rgb(185, 184, 184);
 }
 
-
+@media screen and (max-height: 553px){
+    body{
+        
+        display: none;
+    }
+    html{
+     background: rgb(185, 184, 184);
+    }
     
 }
 
