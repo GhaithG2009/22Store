@@ -684,12 +684,12 @@ margin-bottom: 16px;
 }
 
 @media only screen and (min-width: 553px) {
-    body .txtmobo {
+ .txtmobo {
       display: none;
     }
   }
   @media only screen and (min-height: 600px) {
-    body .txtmobo {
+.txtmobo {
       display: none;
     }
   }
