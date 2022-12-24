@@ -521,7 +521,9 @@ body .footer{
     
     display: none;
 }
-
+body{
+    background: rgb(185, 184, 184); 
+}
 
 html{
  background: rgb(185, 184, 184);
