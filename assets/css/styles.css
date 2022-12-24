@@ -501,7 +501,7 @@ html{
 }
 }
 
-@media screen and (max-height: 443px){
+@media screen and (max-height: 600px){
     body{
         
         display: none;
