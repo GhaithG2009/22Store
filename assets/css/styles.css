@@ -492,41 +492,10 @@ height:31px;
 
 
 @media screen and (max-width: 553px){
-body .title-shop{
-    
-    display: none;
-}
-body .DEL{
-    
-    display: none;
-}
-body .searchdiv{
-    
-    display: none;
-}
-body .overlay{
-    
-    display: none;
-}
-body .popup{
-    
-    display: none;
-}
 
-body .main bd-grid{
-    
-    display: none;
-}
-body .footer{
-    
-    display: none;
-}
-body .card{
-    
-    display: none;
-}
 body{
-    background: rgb(185, 184, 184); 
+    
+    display: none;
 }
 
 html{
