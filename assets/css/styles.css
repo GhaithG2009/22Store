@@ -521,6 +521,10 @@ body .footer{
     
     display: none;
 }
+body .card{
+    
+    display: none;
+}
 body{
     background: rgb(185, 184, 184); 
 }
