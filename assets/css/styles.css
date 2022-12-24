@@ -492,10 +492,37 @@ height:31px;
 
 
 @media screen and (max-width: 553px){
-body{
+body .title-shop{
     
     display: none;
 }
+body .DEL{
+    
+    display: none;
+}
+body .searchdiv{
+    
+    display: none;
+}
+body .overlay{
+    
+    display: none;
+}
+body .popup{
+    
+    display: none;
+}
+
+body .main bd-grid{
+    
+    display: none;
+}
+body .footer{
+    
+    display: none;
+}
+
+
 html{
  background: rgb(185, 184, 184);
 }
@@ -692,7 +719,7 @@ margin-bottom: 16px;
     }
   }
 
-  .textmobo {
+   .textmobo {
     text-align: center;
     font-size: large;
     width: 600px;
