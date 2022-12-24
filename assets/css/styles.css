@@ -711,17 +711,17 @@ margin-bottom: 16px;
 }
 
 @media only screen and (min-width: 553px) {
-    .txtmobo {
+    body .txtmobo {
       display: none;
     }
   }
   @media only screen and (min-height: 600px) {
-    .txtmobo {
+    body .txtmobo {
       display: none;
     }
   }
 
-   .textmobo {
+   body .textmobo {
     text-align: center;
     font-size: large;
     width: 600px;
