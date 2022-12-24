@@ -680,3 +680,14 @@ border: 1px solid rgba(106, 127, 145, 0.76);
 height: 35px;
 margin-bottom: 16px;
 }
+
+@media only screen and (min-width: 553px) {
+    .txtmobo {
+      display: none;
+    }
+  }
+  @media only screen and (min-height: 600px) {
+    .txtmobo {
+      display: none;
+    }
+  }
