@@ -127,10 +127,10 @@ article:nth-child(8){
 .card__img{
     width: 180px;
     height: auto;
-    padding-top: 3rem;
-    padding-bottom: 2rem; 
-    padding-left: 180px;
-    padding-right: 180px;
+    padding-top: 200px;
+    padding-bottom: 200px; 
+    padding-left: 270px;
+    padding-right: 270px;
     transition: .5s;
 }
 .card__name{
