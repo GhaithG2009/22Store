@@ -127,7 +127,7 @@ article:nth-child(8){
 .card__img{
     width: 180px;
     height: auto;
-padding: 3rem 0;
+    padding: 3rem 0;
     transition: .5s;
 }
 .card__name{
