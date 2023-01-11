@@ -683,4 +683,10 @@ height: 35px;
 margin-bottom: 16px;
 }
 
-
+.version{
+    display: grid;
+    place-items:  center;
+    color: rgba(109, 109, 109, 0.767);
+    font-size: 10px;
+    
+}
