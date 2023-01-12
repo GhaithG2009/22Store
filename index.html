@@ -111,7 +111,17 @@
 
 
 
-<div class="searchdiv"><input type="search" value="" id="search" onchange="openPage()"    list="sopt"  placeholder="search for pages,products and sections"  > </div>
+<div class="searchdiv"><input type="search" value="" id="search" onchange="openPage()"  list="input"    placeholder="search for pages,products and sections"  > </div>
+<datalist id="input">
+    <option value="">hello </option>
+    <option value="">ghaiyh</option>
+    <option value="">helo mf</option>
+    <option value="">fdsa </option>
+    <option value="">sa fd</option>
+    <option value=""> fds</option>
+    <option value=""> sfd</option>
+    <option value=""> sfd</option>
+</datalist>
 
 
  
@@ -119,6 +129,7 @@
 
 <script>
     function openPage() {
+        console.log ("search scipt is working");
             var x = document.getElementById("search").value;
 
             if (x === "TOBLERONE") {
