@@ -684,8 +684,7 @@ border-radius: 10px;
 border: 1px solid rgba(106, 127, 145, 0.76);
 height: 35px;
 margin-bottom: 16px;
-position: absolute;
-z-index: 1;
+
 }
 
 .version{
