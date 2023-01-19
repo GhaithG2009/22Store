@@ -694,7 +694,7 @@ margin-bottom: 16px;
     font-size: 10px;
     
 }
-html {
+html body .searchdiv{
      scroll-behavior: smooth;
      scroll-padding: 10rem;
 }
