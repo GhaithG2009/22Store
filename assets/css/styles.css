@@ -434,6 +434,10 @@ z-index: 1;
    display: grid;
    place-items: center;
    place-content: center;
+   justify-items: center;
+   justify-content: center;
+   align-items: center;
+   align-content: center;
 }
 
 .popup h2 {
