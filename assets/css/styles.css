@@ -426,11 +426,11 @@ z-index: 1;
   padding: 20px;
   border-radius: 5px;
   width: 30%;
-  margin-bottom: 30px;
+  
 max-width : 57%;
   position: relative;
   transition: all 5s ease-in-out;
-  margin: 40px auto;
+  
    display: grid;
    place-items: center;
 }
