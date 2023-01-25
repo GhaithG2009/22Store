@@ -466,7 +466,7 @@ max-width : 57%;
   }
   .popup{
 
-    width: 80%;
+    width: 80%; 
   }
 }
 
@@ -694,7 +694,7 @@ margin-bottom: 16px;
     font-size: 10px;}
     
  .content button
- {   border-radius: 30px;
+ {   border-radius: 17px;
     margin-top: 30px;
     width: 100px;
     height: 30px;
@@ -703,5 +703,10 @@ margin-bottom: 16px;
     border: 1px solid gray;
     
  }
-
+@media  screen and (max-width:500px) {
+    .popup{
+        width: 900px;
+    }
+    
+}
 
