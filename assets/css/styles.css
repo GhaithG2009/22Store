@@ -691,7 +691,17 @@ margin-bottom: 16px;
     display: grid;
     place-items:  center;
     color: rgba(109, 109, 109, 0.767);
-    font-size: 10px;
+    font-size: 10px;}
     
-}
+ .add-to-cart-btn{
+    border-radius: 30px;
+    margin-top: 30px;
+    width: 100px;
+    height: 30px;
+    font-size: medium;
+    color: #156063;
+    border: 1px solid gray;
+    
+ }
+
 
