@@ -431,6 +431,8 @@ max-width : 57%;
   position: relative;
   transition: all 5s ease-in-out;
   margin: 40px auto;
+   display: grid;
+   place-items: center;
 }
 
 .popup h2 {
