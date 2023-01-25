@@ -425,9 +425,9 @@ z-index: 1;
 
   padding: 20px;
   border-radius: 5px;
-  width: 30%;
+  width: 200px;
   
-max-width : 57%;
+  max-width: 250px;
   position: relative;
   transition: all 5s ease-in-out;
   
