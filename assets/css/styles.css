@@ -410,7 +410,8 @@ display:none;
   opacity: 0;
 z-index: 1;
 display: grid;
-
+justify-content: center;
+align-content: center;
 
 }
 .overlay:target {
