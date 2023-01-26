@@ -409,6 +409,7 @@ display:none;
   visibility: hidden;
   opacity: 0;
 z-index: 1;
+display: grid;
 
 }
 .overlay:target {
@@ -431,9 +432,9 @@ z-index: 1;
   position: relative;
   transition: all 5s ease-in-out;
   
-  display: flex;
   
   
+  place-self: center;
   
   justify-content: center;
 
