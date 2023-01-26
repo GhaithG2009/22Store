@@ -727,6 +727,9 @@ color: #333;
     outline-offset: 1px;
     border-radius: 30px;
 } 
-html{
-    scroll-behavior: smooth; 
+header{
+    scroll-behavior: smooth;
+}
+.footer{
+    scroll-behavior: smooth;
 }
