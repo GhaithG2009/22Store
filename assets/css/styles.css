@@ -428,10 +428,10 @@ align-content: center;
 
   padding: 20px;
   border-radius: 5px;
-  width: auto;
-  height: 150px;
-  max-width: 500px;
-  position: relative;
+  width: 35%;
+  
+  max-width: 40%;
+   position: relative;
   transition: all 5s ease-in-out;
   
   
