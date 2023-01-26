@@ -11,8 +11,8 @@ body{
     border: 1px solid black ;
     background-color: aliceblue;
     color: black;
-    width: 60px;
-    height: 20px;
+    width: 120px;
+    height: 40px;
 
 }
 .backbtn button :hover{
