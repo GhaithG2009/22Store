@@ -430,14 +430,6 @@ z-index: 1;
   max-width: 250px;
   position: relative;
   transition: all 5s ease-in-out;
-  
-   display: grid;
-   place-items: center;
-   place-content: center;
-   justify-items: center;
-   justify-content: center;
-   align-items: center;
-   align-content: center;
 }
 
 .popup h2 {
