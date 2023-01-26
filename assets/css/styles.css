@@ -411,6 +411,7 @@ display:none;
 z-index: 1;
 display: grid;
 justify-content: center;
+place-items: center;
 
 }
 .overlay:target {
