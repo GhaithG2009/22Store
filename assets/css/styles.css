@@ -717,8 +717,11 @@ margin-bottom: 16px;
     
  }
 .devbtn{
-    font-size: x-small;
+    font-size: xx-small;
 
 color: #333;
 }
 
+.devbtn a{
+    
+}
