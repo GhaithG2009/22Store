@@ -721,7 +721,7 @@ margin-bottom: 16px;
 
 color: #333;
 }
-html{
+header{
     scroll-behavior: smooth;
 }
 :target {
