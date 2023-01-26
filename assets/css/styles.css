@@ -412,7 +412,7 @@ z-index: 1;
 display: grid;
 justify-content: center;
 align-content: center;
-
+place-items: center;
 }
 .overlay:target {
   visibility: visible;
