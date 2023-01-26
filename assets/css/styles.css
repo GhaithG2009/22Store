@@ -452,7 +452,7 @@ display: grid;
   margin-top: 0;
   color: #333;
   font-family: Tahoma, Arial, sans-serif;
-
+place-self: center;
 }
 .popup .close {
   position: absolute;
@@ -472,6 +472,7 @@ display: grid;
 .popup .content {
     max-height: 30%;    
     overflow: auto;
+    place-self: center;
   
   
   }
