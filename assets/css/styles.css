@@ -428,8 +428,8 @@ align-content: center;
 
   padding: 20px;
   border-radius: 5px;
-  width: 400px;
-  
+  width: 450px;
+  height: 380px;
   max-width: 500px;
   position: relative;
   transition: all 5s ease-in-out;
