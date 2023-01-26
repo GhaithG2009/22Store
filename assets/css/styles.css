@@ -721,4 +721,10 @@ margin-bottom: 16px;
 
 color: #333;
 }
-
+html{
+    scroll-behavior: smooth;
+}
+:target {
+    outline: 2px solid  grey;
+    outline-offset: 1px;
+}
