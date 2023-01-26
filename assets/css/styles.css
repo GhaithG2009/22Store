@@ -716,5 +716,10 @@ margin-bottom: 16px;
     border: 1px solid gray;
     
  }
-
+.devbtn{
+display: grid;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
 
