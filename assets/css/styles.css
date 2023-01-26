@@ -428,8 +428,8 @@ align-content: center;
 
   padding: 20px;
   border-radius: 5px;
-  width: 450px;
-  height: 220px;
+  width: auto;
+  height: auto;
   max-width: 500px;
   position: relative;
   transition: all 5s ease-in-out;
@@ -438,7 +438,7 @@ align-content: center;
   
   
   
-  justify-content: center;
+  
   
   
 }
