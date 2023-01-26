@@ -428,9 +428,9 @@ align-content: center;
 
   padding: 20px;
   border-radius: 5px;
-  width: 35%;
+  width: 450px;
   
-  max-width: 40%;
+  max-width: 450px;
    position: relative;
   transition: all 5s ease-in-out;
   
