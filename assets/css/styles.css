@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap'); */
 
 /*-- VARIABLES CSS--*/
 /*Colores*/
@@ -721,8 +721,8 @@ margin-bottom: 16px;
 
 color: #333;
 }
-header{
-    scroll-behavior: smooth;
+html {
+     scroll-behavior: smooth;
 }
 :target {
     outline: 2px solid  lightcoral;
