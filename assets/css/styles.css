@@ -717,10 +717,8 @@ margin-bottom: 16px;
     
  }
 .devbtn{
-display: grid;
-justify-content: center;
-align-items: center;
-text-align: center;
-height: 50px;
+    font-size: x-small;
+
+color: #333;
 }
 
