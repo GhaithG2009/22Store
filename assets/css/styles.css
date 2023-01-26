@@ -727,4 +727,5 @@ header{
 :target {
     outline: 1px solid  lightcoral;
     outline-offset: 1px;
+    border-radius: 50px;
 }
