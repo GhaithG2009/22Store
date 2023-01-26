@@ -727,7 +727,7 @@ color: #333;
     outline-offset: 1px;
     border-radius: 30px;
 } 
-header{
+header li{
     scroll-behavior: smooth;
 }
 .footer{
