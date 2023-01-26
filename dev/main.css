@@ -31,3 +31,12 @@ body{
     width: 200px;
     height: 50px;
 }
+.homebtn{
+    display:grid;
+    justify-content: center;
+    justify-self: center;
+    align-items: center;
+    align-content: center;
+    width: 200px;
+    height: 50px;
+}
