@@ -425,12 +425,19 @@ z-index: 1;
 
   padding: 20px;
   border-radius: 5px;
-  width: 200px;
-  height: 400;
-  max-width: 250px;
+  width: 27%;
+  height: 40%;
+  max-width: 50%;
   position: relative;
   transition: all 5s ease-in-out;
+  
+  display: grid;
+  
+  
+  
   justify-content: center;
+
+
   justify-items: center;
   place-items: center;
   place-content: center;
