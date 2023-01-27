@@ -48,5 +48,7 @@ border-radius: 10px;
     justify-items: center;
     text-align:center;
     border: 1px solid whitesmoke;
+    height: 200px;
+    width: 100px;
     
 }
