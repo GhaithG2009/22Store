@@ -725,7 +725,7 @@ color: #333;
 :target {
     outline: 2px solid  lightcoral;
     outline-offset: 1px;
-    border-radius: 7px;
+    border-radius: 3px;
 } 
 header li{
     scroll-behavior: smooth;
