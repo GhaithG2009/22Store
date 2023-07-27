@@ -729,4 +729,5 @@ color: #333;
 } 
 html{
     scroll-padding: 10rem;
+    scroll-behaviour: smooth;
 }
