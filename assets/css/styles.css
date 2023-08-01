@@ -457,6 +457,18 @@ place-items: center;
   color: #333;
 
 }
+    
+.popup .close a{
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+
+}
 .popup .close:hover {
   color: #86FAFF;
 
@@ -480,16 +492,17 @@ place-items: center;
 }
 
 
-body .popup .content  a {
+body .popup .add-to-cart-btn .content  a {
 border:1px solid #fff;
 border-radius:7px;
 background:#CCDFDF;
 
-
+width:100px;
+    heght:28px;
 
 }
 
-body .popup  .content  a:hover {
+body .popup .add-to-cart-btn  .content  a:hover {
   background: #fff;
 width: 103px;
 height:31px;
@@ -579,19 +592,7 @@ h2{
     -ms-user-select: none; /* IE 10 and IE 11 */
     user-select: none; /* Standard syntax */
 }
-.checkout, .view-cart{
-    width:95%;
-    text-align: center;
-    cursor: pointer;
-    background-color: brown;
-    font-size: large;
-    color: #fff;
-    margin:10px auto;
-    padding:10px 15px;
-    -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
-}
+
 .view-cart{
     background-color: #fff;
     border: 2px solid rgb(78, 78, 78);
@@ -680,20 +681,20 @@ header ul li  :hover{
     box-shadow: 0 0 10px rgb(255, 255, 255), 0 0 40px rgb(255, 255, 255), 0 0 80px rgb(255, 255, 255);
 }
 body .searchdiv{
-
+text-align:center;
 display: grid;
 place-items:  center;
 color: rgba(109, 109, 109, 0.767);
 font-size: 10px;
-
+ place-items:center;
 }
-body .searchdiv #search{
+body .searchdiv #search input{
 width: 365px;
 border-radius: 10px;
 border: 1px solid rgba(106, 127, 145, 0.76);
 height: 35px;
 margin-bottom: 16px;
-
+text-align:center;
 }
 
 .version{
