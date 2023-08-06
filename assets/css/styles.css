@@ -420,24 +420,29 @@ place-items: center;
 
 }
 
-.popup {
-    -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
-  background:#6FD4D8;
 
-  padding: 20px;
-  border-radius: 5px;
-  width: 450px;
+
+.popup {
+
+    background:#6FD4D8;
   
-  max-width: 450px;
-   position: relative;
-  transition: all 5s ease-in-out;
-  
-  
-  
-  
-  
+    padding: 20px;
+    border-radius: 5px;
+    width: 450px;
+    
+    
+    max-width: 450px;
+     position: relative;
+    transition: all 5s ease-in-out;
+    
+    font-size: 17px;
+    
+    color: #fffcfcbb;
+    
+    
+    
+    
+  }
 
 .popup h2 {
   margin-top: 0;
@@ -491,21 +496,24 @@ place-items: center;
   }
 }
 
-
-body .popup .add-to-cart-btn .content  a {
-border:1px solid #fff;
-border-radius:7px;
+body .searchdiv{
+    display: grid;
+place-items:  center;
+color: rgba(109, 109, 109, 0.767);
+font-size: 10px;
 background:#CCDFDF;
-
-width:100px;
-    heght:28px;
-
 }
 
-body .popup .add-to-cart-btn  .content  a:hover {
-  background: #fff;
-width: 103px;
-height:31px;
+
+
+
+body .searchdiv #search{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    z-index: 1;
+
+    background:#CCDFDF;
 }
 
 
@@ -726,5 +734,5 @@ color: #333;
 } 
 html{
     scroll-padding: 10rem;
-    scroll-behaviour: smooth;
+    scroll-behavior: smooth;
 }
