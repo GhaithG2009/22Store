@@ -481,11 +481,32 @@ place-items: center;
 .popup .content {
     max-height: 30%;    
     overflow: auto;
-    
+
+
+      
   
   
   }
 
+
+
+
+  body .popup .content  a {
+    border:1px solid #fff;
+    border-radius:7px;
+    background:#CCDFDF;
+    
+    
+    
+    }
+    
+    body .popup  .content  a:hover {
+      background: #fff;
+    width: 103px;
+    height:31px;
+    }
+
+    
 @media screen and (max-width: 700px){
   .box{
     width: 80%;
